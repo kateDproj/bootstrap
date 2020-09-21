@@ -1,0 +1,27 @@
+.col- {
+    background: #ce6e6e;
+}
+
+.col-sm- {
+    background: #e06b27;
+}
+
+.col-md- {
+    background: #89ce6e;
+}
+
+.col-lg- {
+    background: #6eceb9;
+}
+
+.col-xl- {
+    background: #ce6ea9;
+}
+
+.col {
+    background: #786ece;
+}
+
+.row {
+    border: 3px solid black;
+}

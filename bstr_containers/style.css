@@ -1,0 +1,27 @@
+.container {
+    background: #ff44ff;
+}
+
+.container-fluid {
+    background: #a34949;
+}
+
+.container-sm {
+    background: #63ff44;
+}
+
+.container-md {
+    background: #849ec0;
+}
+
+.container-lg {
+    background: #a34967;
+}
+
+.container-xl {
+    background: #c02727;
+}
+
+p {
+    margin: 0;
+}
